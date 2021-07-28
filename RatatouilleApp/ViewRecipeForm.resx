@@ -1,0 +1,156 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="recipe_procedure.Text" xml:space="preserve">
+    <value>1. Place all ingredients in a bowl and marinate meat for at least 4 hours in the refrigerator. Drain then reserve marinade. Pan-grill or charcoal-grill meat until done.
+
+2. To make the adobo sauce, pour reserved marinade in a pan and simmer for 8 minutes. Pour over liempo or serve on the side.
+</value>
+  </data>
+  <data name="recipe_ingredients.Text" xml:space="preserve">
+    <value>750 g pork, liempo, cut into serving portions or 2 x 2-inch chunks
+1/3 cup DEL MONTE Red Cane Vinegar (47cl)
+1/4 cup soy sauce
+1/4 cup garlic, minced
+1/4 tsp peppercorn, crushed
+1 pc bay leaf/laurel leaf
+1/4 tsp salt
+2 pouch DEL MONTE Pineapple Tidbits (115g)</value>
+  </data>
+  <metadata name="$this.TrayHeight" type="System.Int32, System.Private.CoreLib, Version=5.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e">
+    <value>54</value>
+  </metadata>
+  <assembly alias="System.Drawing.Common" name="System.Drawing.Common, Version=5.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51" />
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing.Common" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAEAICAAAAEAIACoEAAAFgAAACgAAAAgAAAAQAAAAAEAIAAAAAAAABAAABMLAAATCwAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC9v8AA////AF5iZAhQVFYYUVRXH01PUhVfYWMGAAAAAKmr
+        rAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkZ2oAgYKDAkRHTCg2Oz91Mjc6tTE1OdUyNjrfLTE10SYo
+        LK4sLjJpPkFEILu8vAF3eXsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACNjIoALjI4AExPUxQ3PEB7MDQ53i0xNv4tMTX/LTE2/y0x
+        Nv8sLzT/HyMn/x0gJP0iJSjWLC8ybkRGShA3OTwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        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
+        8wGtxfMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAElNUQBRVVgHSEtPJlJUVwxFSEsAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAA//////////////////+D///8AH//+AA///AAH//gAA//wAAH/4AAB/+A
+        AAf/AAAD/wAAA/+AAAP/wAAD/+AAA//AAAf/gAAH/wAAB/4HAA/8D8AP+B/AH+B/gB/A/8B/wf/Ef8P/
+        /n/H//////////////////////////////8=
+</value>
+  </data>
+</root>
