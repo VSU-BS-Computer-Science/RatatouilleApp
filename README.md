@@ -1,5 +1,5 @@
 Project name: Ratatouille  
-Course: CSci 151 - Event Driven Programming  
+Course: CSci 151 - Event Driven Programming and CSci 23 - Applications Development and Emerging Technologies  
 Author: Aljon Lerios (2021)  
   
 Summary:  
